@@ -1,5 +1,5 @@
 # ✨ Hi, I’m Nini
-👩🏻‍💻 I studied **Python** and **Django**<br>🌷 Exploring new paths in the Tech World<br>⚡️ Currently working on a **Live Chat** application<br>💭 Planning to dive into **Frontend development**
+👩🏻‍💻 Backend Developer<br>⚡️ Skilled in **Python**, **Django**, and **REST APIs**<br>🌷 Exploring new paths in the Tech World<br>💭 Planning to dive into **Frontend development**
 
 
 # 💻 Tech Stack:
