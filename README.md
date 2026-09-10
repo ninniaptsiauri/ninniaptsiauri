@@ -1,12 +1,20 @@
 # ✨ Hi, I’m Nini
-👩🏻‍💻 Backend Developer<br>⚡️ Skilled in **Python**, **Django**, and **REST APIs**<br>🌷 Exploring new paths in the Tech World<br>💭 Currently building skills in **Frontend development**
+👩🏻‍💻 FullStack Developer<br>⚡️ Skilled in **Python**, **Django**, **FastAPI**, and **REST APIs**<br>🌷 Exploring new paths in the Tech World<br>💭 Currently building advanced apps with **LangGraph**, **LangChain**, and modern **Frontend** tools
 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-Django%20REST%20Framework-red?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-FF2D20?style=for-the-badge)
 
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
